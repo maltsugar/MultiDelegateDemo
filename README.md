@@ -1,6 +1,10 @@
 使用本demo的桥接对象
+
 或者 
+
 NSPointerArray
+
+同样的:NSMapTable对应NSDictionary,NSHashTable对应NSSet
 
 
 ```
