@@ -3,7 +3,7 @@
 NSPointerArray
 
 
-
+```
 - (void)addDelegate:(id<YDVideoManagerDelegate>)delegate
 {
     [self.delegates addPointer:(void *)delegate];
@@ -29,3 +29,4 @@ NSPointerArray
     }
     return _delegates;
 }
+```
